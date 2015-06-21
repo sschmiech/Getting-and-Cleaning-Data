@@ -1,6 +1,6 @@
 # Readme
 
-##Walk through `run_analysis.R´ 
+##Walk through `run_analysis.R` 
 * Step 0
     * Download and unzip the Data set
 * Step 1
@@ -18,4 +18,4 @@
     * output aggregated data in aggregated_data.txt
 
 ##Variables
-check `codebook.Rmd´
+check `codebook.Rmd`

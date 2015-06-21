@@ -1,0 +1,16 @@
+# Readme
+* Step 0
+    * Download and unzip the Data set
+* Step 1
+    * Read test and train data
+    * Join the Datasets with rbind()
+* Step 2
+    * filter Data for mean and standard deviation 
+* Step 3
+    * name activities in the data set
+* Step 4
+    * set descriptive variable names
+    * output cleaned data in merged_data.txt
+* Step 5
+    * create new dataset with the average of each variable for each activity and each subject by the function aggregate()
+    * output aggregated data in aggregated_data.txt

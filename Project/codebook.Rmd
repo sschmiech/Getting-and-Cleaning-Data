@@ -1,0 +1,7 @@
+# Variables
+* `trainData`, `trainLabel`, `trainSubject`, `testData`, `testLabel` and `testSubject` contain the data from the files in DataSet.
+* test and train variables are merged to `Data`, `Label` and `Subject` 
+* `features` and `stdMeanIndex` used to set the column names for `Data`
+* `activities` stores the activities names 
+* `Data`, `Label` and `Subject` are merged to `cleanData`
+* `aggregatedData` contains  the  averages computed from  `cleanData`
